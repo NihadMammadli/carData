@@ -1,0 +1,18 @@
+body {
+    padding: 20px;
+    height: 400vw;
+}
+
+#addNewCarBtn {
+    position: relative;
+    left: 50%;
+    transform: translate(-50%);
+
+}
+
+.inputs {
+    display: flex;
+    align-items: center;
+    border-radius: 5px;
+    width: 100%;
+}
